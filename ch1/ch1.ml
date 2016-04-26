@@ -3,4 +3,4 @@ let divide x y =
 let i= divide 3 1;;
 print_int i;;
 i = i+1;;
-i = i+2;; 
+i = i+2+2;;
