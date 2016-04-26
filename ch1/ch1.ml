@@ -1,8 +1,6 @@
 let divide x y =
   if y = 0 then None else Some (x/y);;
 let i= divide 3 1;;
-print_int i;;
-i = i+1;;
-i = i+2+2;;
-i = 3;;
-i = 4;;
+let numbers=[|1;2;3;4|];;
+numbers.(2) <- 4;;
+numbers;;
