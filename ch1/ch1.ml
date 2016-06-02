@@ -5,3 +5,8 @@ let numbers=[|1;2;3;4|];;
 numbers.(2) <- 4;;
 numbers;;
 let i = divide 3 2;; 
+print i;; 
+feature 1;;
+feature 1-1;;
+
+feature 2;;
