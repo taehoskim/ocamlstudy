@@ -6,3 +6,4 @@ numbers.(2) <- 4;;
 numbers;;
 let i = divide 3 2;; 
 print i;; 
+test;;
